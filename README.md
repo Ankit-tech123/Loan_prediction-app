@@ -1,2 +1,1 @@
-# Loan_prediction-app
-All about loan prediction 
+# loan_prediction machine learning project
